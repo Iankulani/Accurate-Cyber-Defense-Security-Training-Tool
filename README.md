@@ -15,12 +15,17 @@ For organizations, it provides a platform to evaluate employee readiness and ide
 With its user-friendly interface, customizable features, and up-to-date content, the tool not only raises awareness but also builds a culture of cyber resilience. 
 By using this tool, organizations and individuals can reduce risks, strengthen defenses, and ensure they are better prepared to protect sensitive information in the face of today’s growing cyber threats.
 
-**How to clone the repo**
+## How to clone the repo
+
+```bash
 
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Security-Training-Tool.git
 
 cd Accurate-Cyber-Defense-Security-Training-Tool
+```
 
-**How to run**
+## How to run
 
+```bash
 python Accurate-Cyber-Defense-Security-Training-Tool.py
+```
